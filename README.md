@@ -11,7 +11,7 @@
 ![jAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-efd81d?style=for-the-badge&logo=JAVASCRIPT&logoColor=000000)
 
 ### Follow me
-[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-234040?style=for-the-badge&logo=WHATSAPP&logoColor=47c5fb)](https://wa.me/996880204256?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%)
+[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-234040?style=for-the-badge&logo=WHATSAPP&logoColor=47c5fb)](https://wa.me/996880204256?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-ffffff?style=for-the-badge&logo=TELEGRAM&logoColor=47c5fb)](https://tlgg.ru/barsbek_kamalov)
 [![INSGTAGRAM](https://img.shields.io/badge/-INSTAGRAM-ffffff?style=for-the-badge&logo=INSTAGRAM&logoColor=c94641)](https://instagram.com/kama10vv?utm_medium=copy_link)
 ![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0a63bc?style=for-the-badge&logo=LINKEDIN&logoColor=fffff)
