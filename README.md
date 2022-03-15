@@ -1,4 +1,4 @@
-Header 
+![Header](https://github.com/BarsbekKamalov/BarsbekKamalov/blob/main/assets/HEADER.jpg)](https://www.youtube.com/channel/UCXiBz8MfeYu8RMIvlNx5SzA)
 
 About me 
 
